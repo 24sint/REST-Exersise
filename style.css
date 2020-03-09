@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+.rest{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.btn{
+    padding: 20px;
+    border-radius: 8px;
+    background-color: aquamarine;
+    font-size: large;
+    font-weight: bold;
+}
